@@ -8,4 +8,5 @@ def key_for_min_value(name_hash)
     if x < y
   p "#{item}:#{index}"
 end
+  end
 end
