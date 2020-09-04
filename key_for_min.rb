@@ -7,3 +7,4 @@ def key_for_min_value(name_hash)
   while index <= smallest
   name_hash[:name][:num].each {|| print smallest}
 end
+
