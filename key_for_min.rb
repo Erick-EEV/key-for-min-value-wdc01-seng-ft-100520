@@ -3,5 +3,5 @@
 
 def key_for_min_value(name_hash)
   i = 0
-  name_hash.each
+  name_hash.each {|| print }
 end
