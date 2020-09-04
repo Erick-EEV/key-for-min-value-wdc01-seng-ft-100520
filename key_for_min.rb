@@ -6,6 +6,7 @@ def key_for_min_value(name_hash)
   smallest = 0
   name_hash.each do |item, index|
     if smallest <= name_hash[i]
+  end
   p "#{item}:#{index}"
 end
 end
